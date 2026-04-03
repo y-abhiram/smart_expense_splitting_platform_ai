@@ -16,7 +16,7 @@ SplitMint is a modern web application designed to solve the complexity of managi
 
 ### 🎥 Demo Video
 
-https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/assets/demo.webm
+[https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/demo.webm](https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/blob/main/demo.webm)
 
 > Watch the full demo to see SplitMint in action - from authentication to expense tracking, filtering, and settlements!
 
