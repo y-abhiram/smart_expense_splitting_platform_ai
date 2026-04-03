@@ -6,8 +6,7 @@
 
 **A production-grade expense splitting and group management platform** that simplifies shared finances with intelligent balance calculations and minimal settlements.
 
-[Live Demo](#) · ([https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/issues](https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/blob/main/demo.webm) · [Request Feature](https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/blob/main/demo.webm)](https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/blob/main/demo.webm)
-
+[Live Demo](#) · (https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/blob/main/demo.webm) 
 ---
 
 ## 🎯 Overview
@@ -16,7 +15,7 @@ SplitMint is a modern web application designed to solve the complexity of managi
 
 ### 🎥 Demo Video
 
-[https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/demo.webm](https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/blob/main/demo.webm)
+https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/blob/main/demo.webm
 
 > Watch the full demo to see SplitMint in action - from authentication to expense tracking, filtering, and settlements!
 
