@@ -10,9 +10,7 @@
 
 ---
 
-## 🎥 Demo Video
-
-https://github.com/y-abhiram/Smart-Expense-Splitting-Platform/assets/demo.mp4
+## 🎥 [📹 Watch Demo Video](https://github.com/y-abhiram/smart_expense_splitting_platform/blob/main/demo.mp4)
 
 > Watch the full demo to see SplitMint in action - from authentication to expense tracking, filtering, and settlements!
 
